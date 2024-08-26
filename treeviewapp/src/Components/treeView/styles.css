@@ -9,6 +9,7 @@
   align-items: center;
   gap: 20px;
   cursor: pointer;
+  font-weight: bolder;
 }
 
 .menu-list-container {
